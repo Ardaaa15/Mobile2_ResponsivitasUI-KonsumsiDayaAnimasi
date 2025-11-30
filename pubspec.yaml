@@ -1,0 +1,50 @@
+name: modul2_demo
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.9.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # Provider versi kompatibel dengan Flutter 3.35
+  provider:  ^6.1.5
+
+  cupertino_icons:  ^1.0.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/semen.jpg
+    - assets/besi.jpg
+    - assets/sapu_ijuk.jpg
+    - assets/beras.jpg
+    - assets/cat_tembok.jpg
+    - assets/paku.jpg
+    - assets/keramik.jpg
+    - assets/kayu_balok.jpg
+    - assets/triplek.jpg
+    - assets/pasir.jpg
+    - assets/batu_bata.jpg
+    - assets/kawat_bendrat.jpg
+    - assets/minyak_goreng.jpg
+    - assets/gula_pasir.jpg
+    - assets/telur_ayam.jpg
+    - assets/kopi.jpg
+    - assets/susu.jpg
+    - assets/mie.jpg
+    - assets/tepung.jpg
+    - assets/garam.jpg
+    - assets/kecap.jpg
+    - assets/material.jpg
+    - assets/sembako.jpg
